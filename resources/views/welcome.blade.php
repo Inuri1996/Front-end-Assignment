@@ -2,7 +2,11 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>BUILDING BETTER FUTURES</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no">
+        <meta name="robots" content="index, follow"/>
+        <meta name="keywords" content="BUILDING BETTER FUTURES | Hospitality | Real Estate | Management Consultancy   "/>
+        <meta name="description" content="KMD Investments Ltd. established in 2019 is a Private Investments company with investments in Management Consultancy, Real Estate and Hospitality sectors"/>
 
         <title>Front-end Assignment </title>
 
@@ -44,8 +48,8 @@
             <img src="./assets/img/kmd_logo_green-1.jpeg" class="w-[340px] h-[290px] absolute left-[993px] top-[820px] object-cover"/>
 <!-- end second section -->
 
-<!-- start third section -->
-      <p class="absolute left-[651px] top-[1308px] text-xl font-bold text-center text-[#b68066]"> OUR SECTORS</p>
+<!-- start third section -->UR
+      <p class="absolute left-[651px] top-[1308px] text-xl font-bold text-center text-[#b68066]"> O SECTORS</p>
       <p class="absolute left-[304px] top-[1337px] text-5xl font-bold text-center uppercase text-[#13253e]">
         <span class="text-5xl font-bold text-center uppercase text-[#13253e]">drive commercial success and</span><br />
         <span class="text-5xl font-bold text-center uppercase text-[#13253e]">sustainable growth</span>
